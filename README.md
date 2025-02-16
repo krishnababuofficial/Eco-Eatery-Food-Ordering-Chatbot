@@ -54,4 +54,4 @@ Eco Eatery is a user-friendly chatbot built with Dialogflow and FastAPI. It allo
 
 ## Acknowledgements
 
-This project was inspired by [Code Basics Youtube Channel].
+This project was inspired by [Code Basics Youtube].
